@@ -1,0 +1,13 @@
+# MATLAB autosave and temporary files
+*.asv
+*.m~
+*.mex*
+slprj/
+codegen/
+
+# Data files (keep large data out of the repo)
+*.mat
+
+# OS files
+.DS_Store
+Thumbs.db
